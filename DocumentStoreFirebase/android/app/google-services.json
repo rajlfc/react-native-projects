@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612984225515",
+    "project_id": "documentstorefirebase",
+    "storage_bucket": "documentstorefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612984225515:android:49194ccc5dfc515ef988ae",
+        "android_client_info": {
+          "package_name": "com.documentstorefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xga4zDrvyVOCkgQetrHB3V3p-bbTINs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
